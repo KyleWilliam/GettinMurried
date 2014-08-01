@@ -1,0 +1,37 @@
+body {
+  background: black;
+}
+
+.container {
+   text-align: center;
+}
+
+.header {
+	color: white;
+	background-color: gray;
+	height: 20px;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	font-family: verdana;
+}
+
+.pure-menu,
+.pure-menu-open,
+.pure-menu-horizontal {
+    position: absolute;
+    width: 100%;
+    background-color: blue;
+}
+
+
+#target {
+  width: 50em;
+  margin: 1.5em auto 1.5em auto;
+  border: .1em;
+  padding: .9em;
+}
+
+#loadmoreajaxloader {
+    color: white;
+}
